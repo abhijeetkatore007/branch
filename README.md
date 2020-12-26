@@ -125,4 +125,4 @@ Your branch is up to date with 'origin/feature1'.
 PS C:\Users\Abhijeet Katore\Documents\New folder\branch>
  git add .
  git push -u origin feature1
- git commit -m "faeture1"
+ git commit -m "feature1"
