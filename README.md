@@ -12,7 +12,7 @@ Your branch is up to date with 'origin/master'.
 
 git add .
 
-git push origin master
+git push origin master  ## IMPORTANT
 
 git commit -m "master commit"
 
@@ -32,5 +32,8 @@ Your branch is up to date with 'origin/master'.
         modified:   README.md
 
   git commit -m"fist commit"
+  
   [master 072a16b] master commit
  1 file changed, 25 insertions(+), 2 deletions(-)
+
+ git push origin master ##IMPORTANT
